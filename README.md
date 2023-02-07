@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Randdose
-- 👀 I’m interested in web and mobile develobment
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in web develobment
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me randomnes037@gmail.com
 
